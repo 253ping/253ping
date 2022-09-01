@@ -7,7 +7,7 @@
 <img alt="code" src="https://i.imgur.com/YuN7KQV.png" align="right"/>
 
 #### Languages
-- ![java](https://img.shields.io/badge/-Java-2B3752?style=flat-square&logo=java&logoColor=6695E2)
+- ![java](https://img.shields.io/badge/-Java-2B3752?style=flat-square&logo=openjdk&logoColor=6695E2)
 - ![html](https://img.shields.io/badge/-HTML-2B3752?style=flat-square&logo=HTML5&logoColor=6695E2)
 - ![css](https://img.shields.io/badge/-CSS-2B3752?style=flat-square&logo=CSS3&logoColor=6695E2)
 - ![javascript](https://img.shields.io/badge/-JS-2B3752?style=flat-square&logo=javascript&logoColor=6695E2)
